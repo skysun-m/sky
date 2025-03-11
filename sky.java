@@ -1,2 +1,0 @@
-input.com
-  java.com
